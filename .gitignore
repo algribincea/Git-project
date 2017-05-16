@@ -2,3 +2,5 @@
 ignora_1/*.txt
 # inorarea unui dosar
 ignora/
+# ignora dosar web
+web/
