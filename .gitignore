@@ -1,0 +1,4 @@
+# ignorarea partiala a folderului ignora
+ignora_1/*.txt
+# inorarea unui dosar
+ignora/
